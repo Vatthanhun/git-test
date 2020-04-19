@@ -1,2 +1,3 @@
 This is first test .txt file.
 Correct this file for test conflict.
+Correct this file for test rebase.
