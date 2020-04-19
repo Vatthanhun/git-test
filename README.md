@@ -21,5 +21,5 @@ This is create <hr>.
 ***
 ___
 
-![Picture](git.jpg)
+![Picture](git.JPG)
 
